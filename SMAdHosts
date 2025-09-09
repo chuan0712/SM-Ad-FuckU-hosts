@@ -1,7 +1,7 @@
 #————SM广告丟那吗hosts————
 #版本：2.8
-#更新日期：250804
-#规则数：5043
+#更新日期：250909
+#规则数：5042
 
 #主页：https://github.com/2Gardon/SM-Ad-FuckU-hosts/blob/master/SMAdHosts
 #订阅：https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts
@@ -1537,7 +1537,7 @@
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 orange-dc.alibaba.com
 0.0.0.0 o2o-ad-clicking.alibaba.com
-0.0.0.0 appdownload.alicdn.com
+#0.0.0.0 appdownload.alicdn.com  闲鱼聊天发送图片界面初始化被卡住
 #0.0.0.0 download.alicdn.com 影响酷安部分阿里系APP下载，定制版淘宝更新资源包
 0.0.0.0 ossgw.alicdn.com
 0.0.0.0 gma.alicdn.com
