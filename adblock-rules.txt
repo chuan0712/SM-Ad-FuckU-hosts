@@ -1,7 +1,7 @@
 #————SM广告丟那吗hosts————
-#版本：2.8
-#更新日期：250909
-#规则数：5042
+#版本：2.9
+#更新日期：251012
+#规则数：5041
 
 #主页：https://github.com/2Gardon/SM-Ad-FuckU-hosts/blob/master/SMAdHosts
 #订阅：https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts
@@ -1563,7 +1563,7 @@
 ||sjarvis.taobao.com^  
 ||h-adashx4yt.ut.taobao.com^  
 ||openacs.m.taobao.com^  
-||msgacs.m.taobao.com^  
+#0.0.0.0 msgacs.m.taobao.com  淘宝店铺聊天消息
 ||acs4public.m.taobao.com^  
 ||accscdn4public.m.taobao.com^  
 ||qh-material.taobao.com^  #莉景天气开屏广告
